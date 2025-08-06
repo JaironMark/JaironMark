@@ -1,4 +1,4 @@
-# Hi there, I’m Jairon 👋
+# Hi there, I’m Juan Marín 👋
 
 **Data Scientist & Analyst** with a background in Economics and a proven track record in content quality and claims data using SQL, Tableau, Python, and Excel.
 
