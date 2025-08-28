@@ -6,31 +6,15 @@
 
 ---
 
-🎓 **Data Analyst** with a strong foundation in **Economics** and **Technology**, passionate about generating insights and driving informed business decisions.
+## 👋 Summary
 
-- Experienced in working with **large datasets** using **SQL**, **Python**, **Excel macros**, and **Tableau**
-- Known for translating complex data into meaningful, actionable insights
-- Enjoys analyzing operational data to support strategic and logistics decisions
-- Eager to learn and grow by applying data skills to **real-world, impact-driven challenges**
+🎓 **Data Analyst** with a strong foundation in **Economics** and **Technology**, and experience across the 
+**travel tech** and **global trade** industries. Skilled in working with **large datasets** using **SQL**, 
+**Python**, **Excel macros**, and **Tableau**, with a focus on **data cleaning**, **validation**, and 
+**operational analysis**. Known for translating complex information into **actionable business insights**, 
+and supporting strategic and logistics decisions through data. Passionate about applying data skills to
+**real-world, impact-driven challenges**, and continuously learning in dynamic environments.
 
----
-
-## 💼 Experience
-
-### 📍 **Data Analyst @ HBX Group**
-*Global travel tech company with 250,000+ hotels in its portfolio*
-
-- Analyzed large hotel content datasets using **SQL (Snowflake)** and **DBeaver**
-- Cleaned and standardized raw provider data (text, addresses, images) using **Excel macros**
-- Verified hotel credentials and validated provider-to-internal ID mapping via **Tableau**
-- Managed internal content requests using **Salesforce**, ensuring data accuracy and relevance
-
-### 📍 **Data Analyst (Previous) @ AMI Trading (Miami)**
-*Global trading company for recycled metals & materials*
-
-- Reduced shipment discrepancies through invoice & supplier analysis
-- Tracked claims and identified liability using **Excel + SQL**
-- Improved traceability with structured, container-level reporting
 
 ---
 
